@@ -1,0 +1,12 @@
+D:\Programmazione\00Github\ERecipients\ERecipients\bin\Debug\ERecipients.exe
+D:\Programmazione\00Github\ERecipients\ERecipients\bin\Debug\ERecipients.pdb
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\MainWindow.baml
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\MainWindow.g.cs
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\App.g.cs
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients_MarkupCompile.cache
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.g.resources
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.Properties.Resources.resources
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.exe
+D:\Programmazione\00Github\ERecipients\ERecipients\obj\Debug\ERecipients.pdb
